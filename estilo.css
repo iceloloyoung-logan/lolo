@@ -1,0 +1,11 @@
+.fundo{ background-color: rgb(204, 59, 59);}
+.titulo{
+    font-size: 150px;
+    color: bisque;
+    align-items: center;
+    display: flex;
+    margin-left: 50px; }
+    .imagem{
+        height: 50px;
+        width: 50px;
+    }
